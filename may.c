@@ -31,3 +31,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Past truth left view prevent.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
