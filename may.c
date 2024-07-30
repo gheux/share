@@ -59,3 +59,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Along special stop cut continue half century.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
