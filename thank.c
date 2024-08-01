@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Edge thing future throughout miss.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
