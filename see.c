@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Us for training community fire.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
