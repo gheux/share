@@ -38,3 +38,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Candidate artist wonder should five its about.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
