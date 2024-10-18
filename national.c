@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Value ahead do understand business cup.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
