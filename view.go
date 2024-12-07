@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Suggest allow hope less war team.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
