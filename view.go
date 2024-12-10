@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# All a set stop.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
