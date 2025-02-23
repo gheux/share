@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Throughout modern open study.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
