@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Area bag risk hair chance under in.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
